@@ -149,7 +149,7 @@ Backend Developer | Node.js & Security Enthusiast
 
 * Rate Limit Triggered – 429 Too Many Requests
 
-![Error](images/To%20many%20requests.png) 
+![Too Many Request](images/To%20many%20requests.png) 
 
 
 ---
