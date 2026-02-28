@@ -1,6 +1,6 @@
 #  API Rate Limiter with Authentication
 
-A secure backend API built using **Node.js, Express, MongoDB, JWT, and Upstash Redis**.
+A secure backend API built using Node.js, Express, MongoDB, JWT, and Upstash Redis.
 
 This project allows users to:
 
