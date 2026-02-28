@@ -1,19 +1,16 @@
-
----
-
-# 🚀 API Rate Limiter with Authentication
+#  API Rate Limiter with Authentication
 
 A secure backend API built using **Node.js, Express, MongoDB, JWT, and Upstash Redis**.
 
 This project allows users to:
 
-* 🔐 Register & Login
-* 🔑 Generate a unique API Key
-* 🚦 Access protected APIs with rate limiting (10 requests/minute)
+*  Register & Login
+*  Generate a unique API Key
+*  Access protected APIs with rate limiting (10 requests/minute)
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 * Node.js
 * Express.js
@@ -25,7 +22,7 @@ This project allows users to:
 
 ---
 
-## ⚙️ How to Run Locally
+##  How to Run Locally
 
 ###  Clone the repository
 
@@ -70,7 +67,7 @@ http://localhost:5000
 
 ---
 
-## 🔐 API Flow
+##  API Flow
 
 ###  Register User
 
@@ -98,7 +95,7 @@ Rate limit: **10 requests per minute**
 ---
 
 
-## 🎯 Features
+##  Features
 
 * JWT Authentication
 * Secure Password Hashing (bcrypt)
@@ -110,7 +107,7 @@ Rate limit: **10 requests per minute**
 
 ---
 
-## 📚 What I Learned
+##  What I Learned
 
 * Implementing JWT authentication
 * Hashing passwords securely
@@ -122,7 +119,7 @@ Rate limit: **10 requests per minute**
 
 ---
 
-## 📸 API Rate Limiter – Request & Response Screenshots
+##  API Rate Limiter – Request & Response Screenshots
 
 * User Login – JWT Authentication
 
@@ -137,7 +134,5 @@ Rate limit: **10 requests per minute**
 * Access Protected API Using Valid API Key
 
 ![Api-data](images/api-data.png) 
-
-
 
 ---
