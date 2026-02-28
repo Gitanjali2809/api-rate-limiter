@@ -119,14 +119,6 @@ Rate limit: **10 requests per minute**
 * Managing environment variables securely
 * Structuring scalable backend applications
 
----
-
-## 👩‍💻 Author
-
-Gitanjali
-Backend Developer | Node.js & Security Enthusiast
-
----
 
 ---
 
@@ -146,10 +138,6 @@ Backend Developer | Node.js & Security Enthusiast
 
 ![Api-data](images/api-data.png) 
 
-
-* Rate Limit Triggered – 429 Too Many Requests
-
-![Too-many-request](images/To-many-requests.png) 
 
 
 ---
